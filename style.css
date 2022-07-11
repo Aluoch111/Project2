@@ -58,5 +58,29 @@ h2{
     display: flex;
     justify-content: space-between;
     
+}#h6{
+    display: flex;
+    justify-content: space-between;
+    
 }
+.feedback{
+    display: flex;
+    justify-content: space-around;
+}
+#one{
+    background-color: rgb(240, 240, 240);
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+#two{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+#three{
+    display: flex;
+}
+
 
