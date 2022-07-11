@@ -42,4 +42,21 @@ h2{
     justify-content: space-evenly;
     align-items: center;
     background-color: rgb(245, 245, 245);
+}#text{
+    text-align: center;
 }
+#popular{
+    display: flex;
+    justify-content: space-between;
+}
+#h5{
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+}
+#h6{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
