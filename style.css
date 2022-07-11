@@ -1,4 +1,7 @@
-
+*{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 header{
    font-weight: 900;
    font-size: larger;
@@ -79,8 +82,10 @@ h2{
     background-color: black;
     text-align: center;
 }
-#three{
-    display: flex;
+#info{
+    color: white;
+    background-color: black;
 }
+
 
 
