@@ -1,26 +1,35 @@
-# Project2
-AgriPlus Webpage
+Portfolio by Grace Aluoch
+# Table of Contents
+- [Description](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Description)
+- [Technology Used](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Technology-Used)
+- [Reference](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Reference)
+- [Licence](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Licence)
+- [Authors Info](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Authors-Info)
 
-DESCRIPTION
+# Description
+Agri-Plus agricultural  produce company website.
 
-A website of agricultural company that links customers to producers,farmers and harvestors.It is a source for fresh produce from respectable farmers.
+# Requirements
+- Either a computer,phone,tablet or an Ipad
+- An access to the Internet
 
-Installation requirements
+# Technology Used
+- HTML - which was used to build the structure of the pages.
 
-A working computer,tablet,phone or Ipad and access to internet connection
+- CSS - which was used to style the pages incuding the left aside navigation bar
+- Google Fonts and Icons
 
-TECHNOLOGY USED
+# Reference
+Materialize CSS
 
-HTML which forms the structure of the page
+# License
+Copyright (c) [2019] [Gibson Bett]
 
-CSS styles the page
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-LICENSE
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-Copyright(C)[2022][Grace Aluoch]
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Permission is granted to any person obtaining a copy of this software  and associated files including use,modification and sale
-
-Authors info:
-
-Slack profile:Aluoch111
+# Authors Info
+Slack Profile - Grace Aluoch
